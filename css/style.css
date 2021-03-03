@@ -36,35 +36,139 @@ position: relative;
     object-fit: cover;
     opacity: 0.5;
 }
-.botao{
+.sessao01{
 
 position: absolute;
-top: 13%;
+top: 9%;
 left: 5%;
 
 }
 
-.botao button{
+.sessao01 button{
     font-family: "Baloo 2", serif;
     color: #fff;
     background: #56CCF2;  
     background: -webkit-linear-gradient(to left, #2F80ED, #56CCF2);  
     background: linear-gradient(to left, #2F80ED, #56CCF2); 
-    padding: 0.1rem 0.2rem;
+    padding: 0.1rem 0.1rem;
     border: none;
-    font-size:1.0rem;
+    font-size:0.9rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
 
     
 }
 
 
-.botao button:hover{
+.sessao01 button:hover{
 
     opacity: 0.5;
     color: rgba(0,0,0,0.8);
     
 }
+
+
+.sessao02{
+
+    position: absolute;
+    top: 9%;
+    left: 33%; 
+    
+}
+    
+.sessao02 button{
+    font-family: "Baloo 2", serif;
+    color: #fff;
+    background: #56CCF2;  
+    background: -webkit-linear-gradient(to left, #2F80ED, #56CCF2);  
+    background: linear-gradient(to left, #2F80ED, #56CCF2); 
+    padding: 0.1rem 0.1rem;
+    border: none;
+    font-size:0.9rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    border-radius: 10px;
+    cursor: pointer;
+
+    
+}
+
+
+.sessao02 button:hover{
+
+    opacity: 0.5;
+    color: rgba(0,0,0,0.8);
+    
+}
+
+.sessao03{
+
+    position: absolute;
+    top: 9%;
+    left: 57%;
+        
+}
+
+.sessao03 button{
+    font-family: "Baloo 2", serif;
+    color: #fff;
+    background: #56CCF2;  
+    background: -webkit-linear-gradient(to left, #2F80ED, #56CCF2);  
+    background: linear-gradient(to left, #2F80ED, #56CCF2); 
+    padding: 0.1rem 0.1rem;
+    border: none;
+    font-size:0.9rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    border-radius: 10px;
+    cursor: pointer;
+
+    
+}
+
+
+.sessao03 button:hover{
+
+    opacity: 0.5;
+    color: rgba(0,0,0,0.8);
+    
+}
+
+        
+
+ .sessao04{
+
+    position: absolute;
+    top: 9%;
+    left: 75%;
+        
+}
+
+.sessao04 button{
+    font-family: "Baloo 2", serif;
+    color: #fff;
+    background: #56CCF2;  
+    background: -webkit-linear-gradient(to left, #2F80ED, #56CCF2);  
+    background: linear-gradient(to left, #2F80ED, #56CCF2); 
+    padding: 0.1rem 0.1rem;
+    border: none;
+    font-size:0.9rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    border-radius: 10px;
+    cursor: pointer;
+
+    
+}
+
+
+.sessao04 button:hover{
+
+    opacity: 0.5;
+    color: rgba(0,0,0,0.8);
+    
+}
+
+        
